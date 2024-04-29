@@ -92,7 +92,7 @@
       }
 
       &.current {
-        color: #fff;
+        color: #f0f;
         background: $primary-color;
       }
 
@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: $primary-color;
-    color: #fff;
+    color: #f1f;
     cursor: pointer;
   }
 
@@ -335,13 +335,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: #fff;
+    color: #f2f;
     font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
 
     &:hover {
-      color: #fff;
+      color: #f3f;
     }
   }
 }
@@ -381,7 +381,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: #f4f;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
