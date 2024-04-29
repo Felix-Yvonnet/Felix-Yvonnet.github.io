@@ -292,7 +292,8 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+       /* No white */
+      border-color: #5B6780 transparent;
       display: block;
       z-index: 1;
     }
