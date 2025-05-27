@@ -11,6 +11,7 @@ Welcome! I am a computer science major at the [ENS Paris-Saclay](https://ens-par
 
 Feel free to send me an email at `felix.yvonnet@hotmail.fr` for any reason, I'll gladly answer to your questions.
 
+<!-- 
 Some of my research interests
 ------
 - SAT solvers
@@ -20,3 +21,4 @@ Some of my research interests
 - Abstract nonsense
 - Automation
 - Anything except the lisp programing language
+-->
