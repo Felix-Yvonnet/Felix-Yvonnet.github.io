@@ -1,12 +1,10 @@
 ---
-title: "Site de correction de sujets de concours CPGE"
+title: "Cours de mathématiques CPGE"
 collection: teaching
 type: "Polycopié"
 permalink: /teaching/2025-sujets
-venue: "ENS Paris-Saclay"
+venue: "Lycée Fénelon"
 date: 2025-09-01
-location: #"City, Country"
+location: "Paris, France"
 ---
-
-[https://perso.crans.org/tjester/prepa/
-](https://perso.crans.org/tjester/prepa/)
+Dans le cadre d'une expérience en CPGE, j'ai écris divers [corrigés de sujets de concours](https://perso.crans.org/tjester/prepa/corrections/) ainsi qu'un cours approfondi sur la [projection sur un convexe fermé](https://perso.crans.org/tjester/prepa/cours/projCvxFerme.pdf).
