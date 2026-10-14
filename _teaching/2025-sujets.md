@@ -8,3 +8,5 @@ date: 2025-09-01
 location: "Paris, France"
 ---
 Dans le cadre d'une expérience en CPGE, j'ai écris divers [corrigés de sujets de concours](https://perso.crans.org/tjester/prepa/corrections/) ainsi qu'un cours approfondi sur la [projection sur un convexe fermé](https://perso.crans.org/tjester/prepa/cours/projCvxFerme.pdf).
+
+J'ai aussi écris [une présentation](https://perso.crans.org/tjester/prepa/exercices/rsa/rsa_prez.pdf) et [des exercices](https://perso.crans.org/tjester/prepa/exercices/rsa/rsa_exo.pdf) sur le cryptosystème RSA.
